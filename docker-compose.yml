@@ -1,0 +1,11 @@
+version: '3'
+services:
+  action:
+    build: .
+    environment:
+        GITHUB_WORKSPACE: ''
+        BLOG_DIR: 'sample-posts'
+        GITHUB_EVENT_PATH: 'sample-event.json'
+        APP_ID: ''
+        APP_SECRET: ''
+        ACCESS_TOKEN: ''

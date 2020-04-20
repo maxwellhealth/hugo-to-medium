@@ -1,0 +1,33 @@
+{
+  "ref": "refs/tags/fake-tag",
+  "before": "6113728f27ae82c7b1a177c8d03f9e96e0adf246",
+  "after": "0000000000000000000000000000000000000000",
+  "created": false,
+  "deleted": true,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://github.com/Codertocat/Hello-World/compare/6113728f27ae...000000000000",
+  "commits": [
+    {
+      "author": {
+        "name": "Codertocat",
+        "email": "21031067+Codertocat@users.noreply.github.com",
+        "date": "2019-05-15T15:19:25Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-15T15:19:25Z"
+      },
+      "message": "PUBLISH sample.md",
+      "tree": {
+        "sha": "1b13fc88733f95cc8cb16170f6990ef30d78acf4",
+        "url": "https://api.github.com/repos/Codertocat/Hello-World/git/trees/1b13fc88733f95cc8cb16170f6990ef30d78acf4"
+      },
+      "url": "https://api.github.com/repos/Codertocat/Hello-World/git/commits/6113728f27ae82c7b1a177c8d03f9e96e0adf246",
+      "comment_count": 1
+    }
+  ],
+  "head_commit": null,
+  "repository": {}
+}
