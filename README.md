@@ -50,3 +50,7 @@ paste this to `.github/workflow/main.yml`
 
 Set these as your environment variable, and done
 
+## Local development
+
+Clone this repo. Copy the docker-compose.yml file into a docker-compose.dev.yml and add your environment variables. Run `docker-compose up`.
+
